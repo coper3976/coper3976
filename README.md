@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=48BA87&height=120&section=header&text=HyunWoong%20Choi&fontSize=30&rotate=8&fontAlign=80&fontAlignY=30)
 
 
-![choi's github stats](https://github-readme-stats.vercel.app/api?username=coper3976&show_icons=true&theme=vue&count_private=true&height=50)
+![choi's github stats](https://github-readme-stats.vercel.app/api?username=coper3976&show_icons=true&theme=vue&count_private=true)
 [![choi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coper3976&langs_count=10&layout=compact&theme=vue)](https://github.com/coper3976)
 
 
