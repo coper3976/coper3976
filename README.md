@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=48BA87&height=120&section=header&text=HyunWoong%20Choi&fontSize=30&rotate=8&fontAlign=80&fontAlignY=30)
+
 ### Hi there 👋 My name is Hyun woong Choi               
 ---
 #### ABOUT ME 😄
