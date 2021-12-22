@@ -22,9 +22,12 @@ If you want contact me, please leave a message. :email:
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 ---
 ### :clipboard:Stats:clipboard:
+<h3 align="center">
 
-![choi's github stats](https://github-readme-stats.vercel.app/api?username=coper3976&show_icons=true&theme=vue&count_private=true) [![choi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coper3976&langs_count=10&layout=compact&theme=vue)](https://github.com/coper3976)
+![choi's github stats](https://github-readme-stats.vercel.app/api?username=coper3976&show_icons=true&theme=vue&count_private=true) 
+[![choi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coper3976&langs_count=10&layout=compact&theme=vue)](https://github.com/coper3976)
 
+---
 ### :envelope:Contact:envelope:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoper3976%2Fcoper3976&count_bg=%2369D33C&title_bg=%23FF9965&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gssinjy12@gmail.com)](mailto:gssinjy12@gmail.com)
