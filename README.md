@@ -17,6 +17,7 @@ If you want contact me, please leave a message. :email:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![choi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coper3976&langs_count=10&layout=compact&theme=vue)](https://github.com/coper3976)
 
 #### Tools
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
@@ -25,7 +26,7 @@ If you want contact me, please leave a message. :email:
 <h3 align="center">
 
 ![choi's github stats](https://github-readme-stats.vercel.app/api?username=coper3976&show_icons=true&theme=vue&count_private=true) 
-[![choi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coper3976&langs_count=10&layout=compact&theme=vue)](https://github.com/coper3976)
+
 
 ---
 ### :envelope:Contact:envelope:
